@@ -14,4 +14,4 @@ npm run dev
 
 Pushing to `main` builds the app and deploys it to GitHub Pages:
 
-https://techprasad43.github.io/TODO/
+https://geethika2109.github.io/TODO/
